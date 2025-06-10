@@ -1,10 +1,13 @@
-## Hi, I'm Sruthi Jayaram ✨
+<h3 align="left">Hi, I'm Sruthi Jayaram ✨</h3>
 
-👩‍💻 I'm an Information Technology student at SOE, CUSAT.<br>
-🌐 I build responsive websites using HTML, CSS, and JavaScript.<br>
-🛠️ Working on backend development using Python, Flask, and MySQL.<br>
-📚 Enjoy turning ideas into functional, user-friendly web apps.<br>
-🎯 Always exploring new tools and technologies to grow my skills.<br>
+<ul>
+  <li>🎓 <strong>Information Technology student</strong> at <em>SOE, CUSAT</em>.</li>
+  <li>🌐 I build <strong>responsive websites</strong> using <code>HTML</code>, <code>CSS</code>, and <code>JavaScript</code>.</li>
+  <li>🛠️ Working on backend development using <code>Python</code>, <code>Flask</code>, and <code>MySQL</code>.</li>
+  <li>🚀 I enjoy turning ideas into functional, user-friendly web apps.</li>
+  <li>📚 Always exploring <strong>new tools and technologies</strong> to grow my skills.</li>
+</ul>
+
 
 
 ## 🌐 Socials:
