@@ -1,11 +1,12 @@
-<h1 align="center" font>Hi, I'm Sruthi Jayaram ✨</h1>
+<h1 align="center" font>Hey there! I’m Sruthi Jayaram ✨</h1>
 
 <ul>
-  <li>🎓 <strong>Information Technology student</strong> at <em>SOE, CUSAT</em>.</li>
-  <li>🌐 I build <strong>responsive websites</strong> using <code>HTML</code>, <code>CSS</code>, and <code>JavaScript</code>.</li>
-  <li>🛠️ Working on backend development using <code>Python</code>, <code>Flask</code>, and <code>MySQL</code>.</li>
-  <li>🚀 I enjoy turning ideas into functional, user-friendly web apps.</li>
-  <li>📚 Always exploring <strong>new tools and technologies</strong> to grow my skills.</li>
+  <li>🎓 <strong>IT student</strong> @ <em>SOE, CUSAT</em></li>
+  <li>🌐 I turn coffee & code into clean, <strong>responsive websites</strong>  — <code>HTML</code>, <code>CSS</code>, and <code>JavaScript</code>are my playground</li>
+  <li>🛠️  Building full-stack magic with <code>Python</code>, <code>Flask</code>, and <code>MySQL</code>.</li>
+  <li>🤖 Currently exploring the brains behind smart apps — diving deep into <code>AI & Machine Learning<code><li>
+  <li>🚀 Passionate about bringing ideas to life with sleek UI and solid backend logic</li>
+  <li>📚 Always learning, always building</li>
   <li>📄 Want the full picture? <a href="https://drive.google.com/file/d/1pz-k6T1DGcrG8zHC66wnlTiHIZErM618/view" target="_blank"><strong>Check out my resume</strong></a>.  </li>
 </ul>
 
