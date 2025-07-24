@@ -4,7 +4,7 @@
   <li>🎓 <strong>IT student</strong> @ <em>SOE, CUSAT</em></li>
   <li>🌐 I turn coffee & strong into clean, <strong>responsive websites</strong>  — <code>HTML</code>, <code>CSS</code>, and <code>JavaScript</code>are my playground</li>
   <li>🛠️  Building full-stack magic with <code>Python</code>, <code>Flask</code>, and <code>MySQL</code></li>
-  <li>🤖 Currently exploring the brains behind smart apps — diving deep into <strong>AI & Machine Learning<strong><li>
+  <li>🤖 Currently exploring the brains behind smart apps — diving deep into <strong>AI & Machine Learning</strong></li>
   <li>🚀 Passionate about bringing ideas to life with sleek UI and solid backend logic</li>
   <li>📚 Always learning, always building</li>
   <li>📄 Want the full picture? <a href="https://drive.google.com/file/d/1pz-k6T1DGcrG8zHC66wnlTiHIZErM618/view" target="_blank"><strong>Check out my resume</strong></a>.  </li>
